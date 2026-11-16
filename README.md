@@ -15,7 +15,7 @@ A reusable Unreal Engine plugin that streams variables from a running game to a 
 ![Live demo](docs/demo.gif)
 
 <!-- Buraya dashboard ekran görüntüsü ekle -->
-![Dashboard](docs/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
