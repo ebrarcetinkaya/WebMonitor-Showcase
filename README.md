@@ -71,7 +71,8 @@ Unreal Engine 5          Node.js Server                 Browser
 
 ## Contact
 
-**Ebrar Çetinkaya**
-Linkedln: [@ebrarcetinkaya](www.linkedin.com/in/ebrar-çetinkaya)
-Email: ebrarctnky02@gmail.com
+- **Ebrar Çetinkaya**
+- LinkedIn: [Profilim](https://www.linkedin.com/in/ebrar-%C3%A7etinkaya)
+- Email: [ebrarctnky02@gmail.com](mailto:ebrarctnky02@gmail.com)
+- GitHub: [@ebrarcetinkaya](https://github.com/ebrarcetinkaya)
 
